@@ -21,7 +21,7 @@ Data visualization (price trends, predictions vs actual values)
 🚀 Installation
 
 Clone the repository:
-git clone https://github.com/yourusername/bitcoin-lstm-prediction.git
+git clone https://github.com/Shaan-Thakkar-1812/bitcoin-lstm-prediction.git
 cd bitcoin-lstm-prediction
 
 Create a virtual environment (optional but recommended):
